@@ -39,8 +39,12 @@
 ``npm update``
 
 ### Configure Pool
+``cp config_example.json config.json``\
+Change ports to ``34414`` and ``34415``\
+If your IP is static, change the host to your static IP.
 
 ### Start Pool
+run ``node init.js ``
 
 ### Hosting the Front End
 
