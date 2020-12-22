@@ -24,12 +24,19 @@
 ``sudo ufw allow 'Apache Full'``
 
 ### Install Lonero-Beta
+``git clone https://github.com/Lonero-Team/Lonero-Beta.git``\
+``cd Lonero-Beta``
 
 ### Start Forknoted
+``./forknoted --config-file configs/lonero.conf``
 
 ### Start Simplewallet
+``./simplewallet --config-file configs/lonero.conf``
 
 ### Install Pool Software
+``git clone https://github.com/forknote/cryptonote-universal-pool.git pool``\
+``cd pool``\
+``npm update``
 
 ### Configure Pool
 
