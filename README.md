@@ -47,6 +47,8 @@ If your IP is static, change the host to your static IP.
 run ``node init.js ``
 
 ### Hosting the Front End
+Copy files from the website to html directory:\
+``sudo cp -rf admin.html config.js custom.css custom.js index.html pages/ themes/ /var/www/html ``
 
 ### Site Customization
 
