@@ -22,3 +22,20 @@
 ``sudo apt-get install apache2``\
 ``sudo ufw app list``\
 ``sudo ufw allow 'Apache Full'``
+
+### Install Lonero-Beta
+
+### Start Forknoted
+
+### Start Simplewallet
+
+### Install Pool Software
+
+### Configure Pool
+
+### Start Pool
+
+### Hosting the Front End
+**The Special Front End**
+
+### Site Customization
