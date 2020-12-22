@@ -46,3 +46,5 @@
 **The Special Front End**
 
 ### Site Customization
+
+**Special thanks to:**
