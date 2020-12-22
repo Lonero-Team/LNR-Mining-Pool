@@ -43,7 +43,6 @@
 ### Start Pool
 
 ### Hosting the Front End
-**The Special Front End**
 
 ### Site Customization
 
