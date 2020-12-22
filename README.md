@@ -51,5 +51,10 @@ Copy files from the website to html directory:\
 ``sudo cp -rf admin.html config.js custom.css custom.js index.html pages/ themes/ /var/www/html ``
 
 ### Site Customization
+Update your pool's IP in the configs:\
+`` cd /var/www/html``\
+``sudo nano config.js``\
+Change the name of the pool:\
+``sudo nano index.html``
 
 **Special thanks to:**
