@@ -55,7 +55,7 @@ Update your pool's IP in the configs:\
 `` cd /var/www/html``\
 ``sudo nano config.js``\
 Change the name of the pool:\
-``sudo nano index.html``
+``sudo nano index.html``\
 You can also update the CSS and JS files for styling and functionality as needed.
 
 **Special thanks to:**
